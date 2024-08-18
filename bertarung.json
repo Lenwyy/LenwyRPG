@@ -1,6 +1,18 @@
-[
-	"*Saat Dalam Perjalanan Kamu Tanpa Sengaja Bertemu Dengan Sekelompok Bandit Yang Menghadang Perjalanan Mu, Tanpa Pilihan Lain Kamu Bertarung Dengan Sekelompok Bandit Tersebut, Kamu Berhasil Memenangkan Pertarungan Dan Menjarah Bandit Tersebut",
-	"*Saat Dalam Perjalanan Di Hutan Kamu Tiba Tiba Saja Disergap Oleh Sekelompok Hewan Buas, Tidak Memberikanmu Pilihan Lain Kamu Mencoba Untuk Melawan Balik, Kamu Berhasil Menyelamatkan Diri Dengan Mengusir Hewan Buas Tersebut, Kamu Menjual Sebagian Dari Hewan Yang Kamu Kalahkan*",
-	"*Seseorang Mengajakmu Berduel Di Dalam Hutan Dengan Imbalan Koin Emas Jika Kamu Berhasil Mengalahkannya, Kamu Menerima Tawaran Tersebut Dan Pergi Menuju Hutan, Sesampainya Disana Tanpa Sebuah Peringatan Kamu Diserang Dari Belakang, Beruntung Kamu Bisa Menghindari Serangan Tersebut Dan Mulai Melawan Balik, Kamu Berhasil Memenangkan Pertarungan Tersebut Dan Sesuai Janji Kamu Menerima Hadiah Berupa Koin Emas*"
-
-]
+[{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Saat Dalam Perjalanan Kamu Tanpa Sengaja Bertemu Dengan Sekelompok Bandit Yang Menghadang Perjalanan Mu, Tanpa Pilihan Lain Kamu Bertarung*", 
+  "LenwyRPG2": "*Dengan Sekelompok Bandit Tersebut, Kamu Berhasil Memenangkan*"
+  "LenwyRPG3": "*Pertarungan Dan Menjarah Bandit Tersebut*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Saat Dalam Perjalanan Di Hutan Kamu Tiba Tiba Saja Disergap Oleh Sekelompok Hewan Buas, Tidak Memberikanmu Pilihan Lain Kamu Mencoba Untuk*", 
+  "LenwyRPG2": "*Melawan Balik, Kamu Berhasil Menyelamatkan Diri Dengan Mengusir*", 
+  "LenwyRPG3": "*Hewan Buas Tersebut, Kamu Menjual Sebagian Dari Hewan Yang Kamu Kalahkan*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Seseorang Mengajakmu Berduel Di Dalam Hutan Dengan Imbalan Koin Emas Jika Kamu Berhasil Mengalahkannya, Kamu Menerima Tawaran Tersebut Dan*", 
+  "LenwyRPG2": "*Pergi Menuju Hutan, Sesampainya Disana Tanpa Sebuah Peringatan Kamu Diserang Dari Belakang, Beruntung Kamu Bisa Menghindari Serangan Tersebut*", 
+  "LenwyRPG3": "*Dan Mulai Melawan Balik, Kamu Berhasil Memenangkan Pertarungan Tersebut Dan Sesuai Janji Kamu Menerima Hadiah Berupa Koin Emas*"
+}]
