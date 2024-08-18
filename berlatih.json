@@ -1,7 +1,12 @@
-[
-  "*Kamu Memutuskan Untuk Pergi Berlatih Di Sebuah Hutan, Kamu Melatih Fisik Dan Teknik Berpedang Sepanjang Hari*",
-  "*Meskipun Kamu Sudah Cukup Kuat Kamu Memutuskan Untuk Tetap Belatih, Kamu Pergi Menuju Hutan Dan Melatih Fisik Untuk Beberapa Bulan*",
-  "*Kamu Pergi Menuju Sebuah Tempat Bernama Expertise OG, Disana Kamu Dilatih Oleh Seorang Guru Yang Hebat, Ia Mengajarimu Tentang Teknik Berpedang*"
-
-
-]
+[{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Memutuskan Untuk Pergi Berlatih Di Sebuah Hutan, Kamu Melatih Fisik Dan Teknik Berpedang Sepanjang Hari*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Meskipun Kamu Sudah Cukup Kuat Kamu Memutuskan Untuk Tetap Belatih, Kamu Pergi Menuju Hutan Dan Melatih Fisik Untuk Beberapa Bulan*" 
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Pergi Menuju Sebuah Tempat Bernama Expertise OG, Disana Kamu Dilatih Oleh Seorang Guru Yang Hebat, Ia Mengajarimu Tentang Teknik Berpedang*"
+}]
