@@ -1,5 +1,12 @@
-[
-	"*Saat Dalam Perjalanan Kamu Menemukan Sebuah Danau, Kamu Mulai Memancing Dan Mendapatkan Banyak Ikan, Kamu Menjual Ikan Tersebut Kepada Penduduk Setempat*",
-	"*Kamu Menerima Pekerjaa Untuk Menangkap Seekor Ikan Di Tepi Danau, Beruntung Kamu Berhasil Menangkap Ikan Yang Dimaksud, Kamu Menerima Upah Yang Sudah Dijanjikan*",
-	"Kamu Diminta Untuk Menangkap Beberapa Ekor Ikan Dengan Imbalan Koin Emas, Kamu Menerima Tawaran Tersebut Dan Memulai Memancin, Setelah Selesai Kamu Kembali Dan Menerima Sejumlah Koin Emas*"
-]
+[{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Saat Dalam Perjalanan Kamu Menemukan Sebuah Danau, Kamu Mulai Memancing Dan Mendapatkan Banyak Ikan, Kamu Menjual Ikan Tersebut Kepada Penduduk Setempat*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Menerima Pekerjaa Untuk Menangkap Seekor Ikan Di Tepi Danau, Beruntung Kamu Berhasil Menangkap Ikan Yang Dimaksud, Kamu Menerima Upah Yang Sudah Dijanjikan*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "Kamu Diminta Untuk Menangkap Beberapa Ekor Ikan Dengan Imbalan Koin Emas, Kamu Menerima Tawaran Tersebut Dan Memulai Memancin, Setelah Selesai Kamu Kembali Dan Menerima Sejumlah Koin Emas*"
+}]
