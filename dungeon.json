@@ -1,5 +1,15 @@
-[
-	"*Kamu Menerima Tawaran Untuk Memasuki Sebuah Dungeon, Sesampainya Disana Kamu Dan Rekanm Mencoba Untuk Melewati Segala Macam Rintangan, Pada Akhirnya Kamu Menemukan Sebuah Peti*",
-	"*Saat Dalam Perjalanan Kamu Tanpa Sengaja Menemukan Sebuah Gerbang Menuju Dungeon, Kamu Memasuki Dungeon Tersebut, Kamu Berhasil Melewati Segala Rintangan Dan Mendapatkan Sebuah Peti*",
-	"*Kamu Menemukan Sebuah Peta Yang Akan Membimbing Kamu Menuju Sebuah Dungeon, Sesampainya Disana Kamu Memeasuki Dungeon Tersebut Dan Melewati Segala Rintangan, Sebuahnya Terbayarkan Dengan Banyaknya Koin Emas Yang Kamu Temukan Disana*"
-]
+[{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Menerima Tawaran Untuk Memasuki Sebuah Dungeon, Sesampainya Disana Kamu Dan Rekanm Mencoba Untuk Melewati Segala Macam Rintangan,*",
+  "LenwyRPG2": "*Pada Akhirnya Kamu Menemukan Sebuah Peti*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Saat Dalam Perjalanan Kamu Tanpa Sengaja Menemukan Sebuah Gerbang Menuju Dungeon, Kamu Memasuki Dungeon Tersebut, Kamu Berhasil*",
+  "LenwyRPG2": "*Melewati Segala Rintangan Dan Mendapatkan Sebuah Peti*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Menemukan Sebuah Peta Yang Akan Membimbing Kamu Menuju Sebuah Dungeon, Sesampainya Disana Kamu Memeasuki Dungeon Tersebut Dan*", 
+  "LenwyRPG2": "*Melewati Segala Rintangan, Sebuahnya Terbayarkan Dengan Banyaknya Koin Emas Yang Kamu Temukan Disana*"
+}]
