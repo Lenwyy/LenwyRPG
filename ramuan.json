@@ -1,5 +1,12 @@
-[
-	"*Woah Kamu Lai Cari Sebuah Ramuan Ya?, Kalau Begitu Kamu Mengunjungi Toko Yang Tepat, Berikut Adalah Harga Dan Jenis Ramuan Yang Kami Jual*",
-	"*Kamu Mencari Sebuah Ramuan?, Kalau Begitu Jenis Ramuan Apa Yang Kamu Cari?, Berikut Adalah Harga Dan Jenis Ramuan Yang Kami Jual*",
-	"*Kamu Membutuhkan Sebuah Ramuan?, Kalau Begitu Kamu Mengunjungi Toko Yang Tepat Karna Kami Menjual Berbagai Jenis Ramuan Dengan Berbagai Harga*"
-]
+[{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Woah Kamu Lai Cari Sebuah Ramuan Ya?, Kalau Begitu Kamu Mengunjungi Toko Yang Tepat, Berikut Adalah Harga Dan Jenis Ramuan Yang Kami Jual*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Mencari Sebuah Ramuan?, Kalau Begitu Jenis Ramuan Apa Yang Kamu Cari?, Berikut Adalah Harga Dan Jenis Ramuan Yang Kami Jual*"
+},
+{
+  "creator": "Lenwy",
+  "LenwyRPG": "*Kamu Membutuhkan Sebuah Ramuan?, Kalau Begitu Kamu Mengunjungi Toko Yang Tepat Karna Kami Menjual Berbagai Jenis Ramuan Dengan Berbagai Harga*"
+}]
